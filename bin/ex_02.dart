@@ -9,11 +9,11 @@ display(message) {
 
 void main() {
   
-  var x = 5;
-  var y = 7;
-  var z = 8;
-  var r = 3.1416 * 3.1416; 
-  var a = 10 * r;
+  var x = 5; //Variable q.1
+  var y = 7; //Variable q.1
+  var z = 8; //Variable q.1
+  var r = 3.1416 * 3.1416; //rayon au carré 
+  var a = 10 * r; //formule de l'aire
   var ha = 107639.1041671; //Square feet by acre
   var b = 220 * 220; //lot in square feet
   var lot = b / ha;
