@@ -1,0 +1,25 @@
+ex02
+
+1. bien
+
+2.
+
+  //var r = 3.1416 * 3.1416; //rayon au carré
+  var r = 3.1416;
+  //var a = 10 * r; //formule de l'aire
+  var a = 10 * 10 * r; //formule de l'aire
+  
+3.
+
+  //var ha = 107639.1041671; //Square feet by acre
+  var acre = 43560; // square feet 
+  var b = 220 * 260; //lot in square feet
+  //var lot = b / ha;
+  var lot = b / acre;
+  
+4.
+
+  var dist = 100;
+  var speed = 9.58;
+  //var c = speed / dist;
+  var c = dist /speed;
